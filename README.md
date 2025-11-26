@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on DEEPFAKE DETECTION 
 - 🌱 I’m currently learning ML/DL
 - 👯 I’m looking to collaborate on AI PROJECTS
-- 🤔 I’m looking for help with AI/ML 
 - 📫 How to reach me: bishtgaurav0710@gmail.com
 ### Connect with me:
 <a href="https://github.com/GAURAV130105">
