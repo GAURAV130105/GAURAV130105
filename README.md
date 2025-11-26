@@ -51,21 +51,47 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
+# Hi 👋, I'm [Your Name]!
+
+### A passionate Developer who loves creating scalable systems.
+
+### More About Me:
+* 🌱 I’m currently learning: **Spring Boot and Linux**
+* 🔭 I’m currently working on: **My Portfolio**
+* 💬 Ask me about: **Java Backend development**
+* 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+### Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,spring,mysql,docker,git,github,vscode,postman,idea" />
+  </a>
+</p>
+
 ### 📊 My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=GAURAV130105&show_icons=true&theme=default&count_private=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GAURAV130105E&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GAURAV130105&layout=compact&theme=default&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=GAURAV130105&theme=default&hide_border=true" />
 
-### 📊 My LEETCODE Stats:
-
 <img src="https://leetcard.jacoblin.cool/gaauraav_13?theme=dark&font=Roboto&ext=heatmap" />
+
+---
+
 ### 🏆 HackerRank Score Card:
 <a href="https://www.hackerrank.com/bishtgaurab0974" target="_blank">
 <img src="https://hackerrank-badge.vercel.app/api/users?id=bishtgaurab0974" alt="HackerRank Badge" />
 </a>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=bishtgaurab0974&label=Profile%20views&color=brightgreen&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=GAURAV130105label=Profile%20views&color=brightgreen&style=flat" />
