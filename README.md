@@ -54,8 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV130105&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAV130105&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://streak-stats.demolab.com/?user=GAURAV130105&theme=default&hide_border=true" />
 
 <img src="https://leetcard.jacoblin.cool/gaauraav_13?theme=dark&font=Roboto&ext=heatmap" />
