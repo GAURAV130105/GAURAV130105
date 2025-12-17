@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ML/DL
 - 👯 I’m looking to collaborate on AI PROJECTS
 - 📫 How to reach me: bishtgaurav0710@gmail.com
+
 ### Connect with me:
 <a href="https://github.com/GAURAV130105">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -49,8 +50,12 @@
 
 <h3>📊 My GitHub Stats</h3>
 
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAURAV130105&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV130105&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAV130105&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://streak-stats.demolab.com/?user=GAURAV130105&theme=default&hide_border=true" />
 
 <img src="https://leetcard.jacoblin.cool/gaauraav_13?theme=dark&font=Roboto&ext=heatmap" />
-
-
