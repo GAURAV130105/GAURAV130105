@@ -24,7 +24,7 @@
 ---
 
 ## About me
-- 🔭 I’m currently working on DEEPFAKE DETECTION  
+- 🔭 I’m currently working on RouterFinder(Djiktra vs FloydWarshall)
 - 🌱 I’m currently learning ML/DL  
 - 👯 I’m looking to collaborate on AI PROJECTS  
 - 📫 How to reach me: bishtgaurav0710@gmail.com
