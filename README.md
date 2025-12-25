@@ -99,46 +99,8 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- main stats (cache helps reduce rate-limits) -->
-  <img alt="Gaurav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GAURAV130105&show_icons=true&theme=radical&cache_seconds=86400" style="max-width:48%; margin:6px;" />
-
-  <!-- top languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV130105&layout=compact&theme=radical&cache_seconds=86400" style="max-width:40%; margin:6px;" />
-</div>
-
-<div align="center" style="margin-top:8px">
-  <!-- streak (use demolab fallback if needed) -->
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=GAURAV130105&theme=radical&hide_border=true" style="height:120px; margin:6px;" />
-</div>
-
----
-
-<!-- LeetCode card -->
-<p align="center">
-  <img alt="LeetCode Card" src="https://leetcard.jacoblin.cool/gaauraav_13?theme=dark&font=Roboto&ext=heatmap" style="max-width:520px; width:100%; margin-top:12px;" />
-</p>
-
 <!-- Visitor badge -->
 <div align="center" style="margin-top:12px">
   <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=GAURAV130105.GAURAV130105" />
 </div>
 
----
-
-## Notes & troubleshooting
-- If GitHub stats or Top Langs don't appear:
-  - Open these URLs directly in your browser to check service status:
-    - https://github-readme-stats.vercel.app/api?username=GAURAV130105&show_icons=true&theme=radical
-    - https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV130105&layout=compact
-  - Top languages require public repos (private repos won't be counted).
-  - If you see rate-limit errors, the added cache_seconds=86400 reduces request frequency.
-  - If a service is down, I can swap to alternate providers or add a simple shields.io fallback.
-
----
-
-Thanks — I consolidated all non-duplicate languages and tools into the Languages and Tools section, normalized icons/badges, and kept the stats + visitor badge. Please review and tell me if you want different icons, sizes, or ordering.
