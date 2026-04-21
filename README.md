@@ -99,8 +99,9 @@
 
 </p>
 
-<!-- Visitor badge -->
-<div align="center" style="margin-top:12px">
+---
+
+<div align="center">
   <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=GAURAV130105.GAURAV130105" />
 </div>
 
