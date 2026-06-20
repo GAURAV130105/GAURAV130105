@@ -8,7 +8,7 @@
      style="border-radius:10px; margin-bottom:15px;" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Gaurav+Singh;Frontend+Developer;ML+Enthusiast;Building+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Gaurav+Singh;ML+Enthusiast;Building+AI+Projects" />
 
 </div>
 
@@ -31,7 +31,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **Attendance System using Computer Vision**
 - 🌱 Learning **Machine Learning & Deep Learning**
 - 👯 Open to collaborate on **AI Projects**
 - 📫 Reach me at: **bishtgaurav0710@gmail.com**
@@ -90,11 +89,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV130105&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAURAV130105&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAURAV130105&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" />
 </p>
 
----
+<!-- ===================== TOP LANGUAGES ===================== -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV130105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
 ## 🧩 Coding Profiles
 
